@@ -1,1 +1,1 @@
-# Gerando-n-meros-aleat-rios-em-C
+# Gerando-n-meros-aleat-rios
